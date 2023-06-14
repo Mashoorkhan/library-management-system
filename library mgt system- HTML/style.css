@@ -1,0 +1,12 @@
+body {
+    background-image: url(./lib1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+  }
+.yellow-text {
+    color: white;
+}
+.white-text {
+    color: white;
+}
